@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Visual Sando</title>
+	<atom:link href="http://localhost/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://visualsando.github.io/work</link>
+	<description>Visual Designer</description>
+	<lastBuildDate>Sun, 29 Apr 2018 19:59:08 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+
+<image>
+	<url>https://visualsando.github.io/work/wp-content/uploads/2018/04/cropped-logo-1-32x32.png</url>
+	<title>Visual Sando</title>
+	<link>https://visualsando.github.io/work</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
